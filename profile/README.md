@@ -1,6 +1,10 @@
 <p align="center">
     <a href="https://justbetter.nl/">
-        <img src="https://github.com/justbetter/art/blob/master/justbetter-logo.svg?raw=true" height="150px" alt="JustBetter">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github.com/justbetter/art/blob/master/justbetter-logo-white.svg?raw=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github.com/justbetter/art/blob/master/justbetter-logo.svg?raw=true">
+            <img alt="JustBetter" height="150px" src="https://github.com/justbetter/art/blob/master/justbetter-logo.svg?raw=true">
+        </picture>
     </a>
 </p>
 
